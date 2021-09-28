@@ -1,4 +1,4 @@
-- 👋 Hi, We are Aixway Technology Ltd. We are Experts in Laser Powder Bed Fusion Additive Manufacturing (SLM metel 3d printing)
+- 👋 Hi, We are Aixway Technology Ltd. We are Experts in Laser Powder Bed Fusion Additive Manufacturing (SLM metle 3d printing)
 - 👀 We are interested in promoting additive manufacturing and help the industry to produce metal parts with higher quality / performance / cost-effectiveness
 - 🌱 We are currently working on automating our data prepration pipelines
 - 💞️ We are looking to collaborate on Advanced / High percision manufacturing projects with our technology knowhow and menufactoring as a service
