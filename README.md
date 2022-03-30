@@ -11,7 +11,7 @@
     - Fax: +49 (0) 241 4759 6127
   - China Site:
     - Website(WIP): [aixway3d.cn](https://www.aixway3d.cn/)
-    - Address: 江苏省太仓市科教新城子冈路27号6号楼702
+    - Address: 江苏省太仓市城厢镇陈门泾路101号5号厂房
     - Tel: +86-0512-53668959 
     - Email: info@aixway3d.de
 
